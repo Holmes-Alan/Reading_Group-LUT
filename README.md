@@ -9,6 +9,10 @@ Basically, papers are chosen at the start of each month, and meetings happen on 
 # Location
 Mixed mode, Online or 
 
+<p align="center">
+<img src="logo.png" width="800" align="center">
+</p>
+
 # Schedule
 |Meeting date|Paper|Meeting|Slidedeck|Resources|
 |-|-|-|-|-|
