@@ -4,21 +4,28 @@ Welcome to LUT's paper reading group repo :) This group is a guided discussion g
 In this repository, you will find slidedecks and paper reproductions.
 
 # Timeline
-Basically, papers are chosen at the start of each month, and meetings happen on Friday 10:00-11:00 every two weeks.
+Basically, papers are chosen at the start of each month, and meetings happen on Thursday 10:00-11:00 every two weeks. Each time we have at least two presenters designated as the host for each topic. They are responsible for choosing the papers to discuss and leading the discussion during the session.
 
 # Location
 Mixed mode, Online or 
+
+# Instruction
+* Choose one paper or several continuous papers (e.g., RCNN, Fast-RCNN and Faster-RCNN) for each session related to your topic that you think would be interesting to discuss in the reading group. In order to set a focus for the reading group we came up with the following short guidelines for how to choose papers:
+  * The main topic of the paper should be core machine learning research. Try to avoid papers that just apply well-known machine learning methods to specific application areas.
+  * Make sure the paper is of high quality. Read through it yourself and try to gauge its quality. As a guideline, think that it should be publishable at a top machine learning conference (i.e. the paper should be of such quality, it does not have to actually be a short conference paper).
+  * If you want a second opinion on whether a paper is suitable feel free to ask anyone in the groups via Teams.
+* Think about how the paper in your topic relates to others. For example, it can be nice to discuss first an introductory paper and then the state-of-the-art, or two different approaches to/perspectives on the same underlying problem.
+* Send out a link to the paper on the mailing list at least one week in advance.
+* As the host it is also good to somewhat lead the discussion during the session. If you want you can give a short description of why you chose this paper. There are no requirements for presentation materials but it should at least contain the following parts: Background, Motivation, One or two key claims, Experimental analysis and Problems. You can copy the figures and tables from the paper but make sure you understand everything. To keep the conversation going, it might be a good idea to come to the session prepared with a few discussion points.
+
 
 
 # Schedule
 |Meeting date|Paper|Meeting|Slidedeck|Resources|
 |-|-|-|-|-|
-|2023/11/3|||||
-|2023/11/10|||||
-|2023/11/17|||||
-|2023/11/24|||||
-|2023/12/1|||||
-|2023/12/8|||||
+|2023/11/9|||||
+|2023/11/23|||||
+|2023/12/7|||||
 |2023/12/15|||||
 
 # Also check these out
