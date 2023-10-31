@@ -10,7 +10,7 @@ Basically, papers are chosen at the start of each month, and meetings happen on 
 Mixed mode, Online or 
 
 <p align="center">
-<img src="logo.png" width="800" align="center">
+<img src="log.png" width="800" align="center">
 </p>
 
 # Schedule
