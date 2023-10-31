@@ -13,9 +13,13 @@ Mixed mode, Online or
 # Schedule
 |Meeting date|Paper|Meeting|Slidedeck|Resources|
 |-|-|-|-|-|
-|2023/11/11|||||
-||||||
-||||||
+|2023/11/3|||||
+|2023/11/10|||||
+|2023/11/17|||||
+|2023/11/24|||||
+|2023/12/1|||||
+|2023/12/8|||||
+|2023/12/15|||||
 
 # Also check these out
 
