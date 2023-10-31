@@ -4,7 +4,7 @@ Welcome to LUT's paper reading group repo :) This group is a guided discussion g
 In this repository, you will find slidedecks and paper reproductions.
 
 # Timeline
-Basically, papers are chosen at the start of each month, and meetings happen on Thursday 10:00-11:00 every two weeks. Each time we have at least two presenters designated as the host for each topic. They are responsible for choosing the papers to discuss and leading the discussion during the session.
+Basically, papers are chosen at the start of each month, and meetings happen on Wednesday 15:00-17:00 every two weeks. Each time we have four presenters designated as the host for each topic. They are responsible for choosing the papers to discuss and leading the discussion during the session.
 
 # Location
 Mixed mode, Online or 
