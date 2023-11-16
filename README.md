@@ -23,7 +23,7 @@ Mixed mode, Online or
 # Schedule
 |Meeting date|Paper|Meeting|Slidedeck|Resources|
 |-|-|-|-|-|
-|2023/11/15|||||
+|2023/11/15|TransReID,VideoMAE,GCCELM,DreamGaussian|video_1[https://lut-my.sharepoint.com/:v:/g/personal/zhisong_liu_lut_fi/Eb8qr6BJYUBIisX6EZ_1mpYBsJCGI3rt9YtY7RKPB_kNjg?e=RSw5jD], video_2, video_3, video_4|||
 |2023/11/22|||||
 |2023/11/29|||||
 |2023/12/6|||||
