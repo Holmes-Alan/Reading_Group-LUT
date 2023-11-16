@@ -23,7 +23,7 @@ Mixed mode, Online or
 # Schedule
 |Meeting date|Paper|Meeting|Slidedeck|Resources|
 |-|-|-|-|-|
-|2023/11/15|TransReID,VideoMAE,GCCELM,DreamGaussian|[Alexander](https://lut-my.sharepoint.com/:v:/g/personal/zhisong_liu_lut_fi/Eb8qr6BJYUBIisX6EZ_1mpYBsJCGI3rt9YtY7RKPB_kNjg?e=RSw5jD), [Deng](https://lut-my.sharepoint.com/:v:/g/personal/zhisong_liu_lut_fi/EXDH3RNtM0ZDhv9befOy3KsB4NVmJh7IU9CwwNMCMBMrKA?e=EBc0hj), [Sergio](https://lut-my.sharepoint.com/:v:/g/personal/zhisong_liu_lut_fi/Ec1lb6aqmXRPjk_xRNTv1PoBeIogbHCjxi_PqaBWwAH4VA?e=2YpdLK), [Wojciech](https://lut-my.sharepoint.com/:v:/g/personal/zhisong_liu_lut_fi/EbX2NNGRqs5NpKxWlyU7OJEBX8M3tZ7GexCq0IDkZ3timg?e=Cl7UJE)|||
+|2023/11/15|[TransReID](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf), [VideoMAE](https://arxiv.org/abs/2203.12602), [GCCELM](https://www.sciencedirect.com/science/article/pii/S0957417422021820), [DreamGaussian](https://arxiv.org/abs/2309.16653)|[Alexander](https://lut-my.sharepoint.com/:v:/g/personal/zhisong_liu_lut_fi/Eb8qr6BJYUBIisX6EZ_1mpYBsJCGI3rt9YtY7RKPB_kNjg?e=RSw5jD), [Deng](https://lut-my.sharepoint.com/:v:/g/personal/zhisong_liu_lut_fi/EXDH3RNtM0ZDhv9befOy3KsB4NVmJh7IU9CwwNMCMBMrKA?e=EBc0hj), [Sergio](https://lut-my.sharepoint.com/:v:/g/personal/zhisong_liu_lut_fi/Ec1lb6aqmXRPjk_xRNTv1PoBeIogbHCjxi_PqaBWwAH4VA?e=2YpdLK), [Wojciech](https://lut-my.sharepoint.com/:v:/g/personal/zhisong_liu_lut_fi/EbX2NNGRqs5NpKxWlyU7OJEBX8M3tZ7GexCq0IDkZ3timg?e=Cl7UJE)|||
 |2023/11/22|||||
 |2023/11/29|||||
 |2023/12/6|||||
@@ -32,4 +32,4 @@ Mixed mode, Online or
 # Also check these out
 
 
-If you have suggestions for the next paper to read, or any suggestions at all, please reach out to me on Discord!
+If you have suggestions for the next paper to read or any suggestions at all, please reach out to me on Teams!
