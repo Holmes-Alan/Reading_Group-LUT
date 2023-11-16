@@ -23,7 +23,7 @@ Mixed mode, Online or
 # Schedule
 |Meeting date|Paper|Meeting|Slidedeck|Resources|
 |-|-|-|-|-|
-|2023/11/15|TransReID,VideoMAE,GCCELM,DreamGaussian|video_1[https://lut-my.sharepoint.com/:v:/g/personal/zhisong_liu_lut_fi/Eb8qr6BJYUBIisX6EZ_1mpYBsJCGI3rt9YtY7RKPB_kNjg?e=RSw5jD], video_2, video_3, video_4|||
+|2023/11/15|TransReID,VideoMAE,GCCELM,DreamGaussian|[Alexander](https://lut-my.sharepoint.com/:v:/g/personal/zhisong_liu_lut_fi/Eb8qr6BJYUBIisX6EZ_1mpYBsJCGI3rt9YtY7RKPB_kNjg?e=RSw5jD), [Deng](https://lut-my.sharepoint.com/:v:/g/personal/zhisong_liu_lut_fi/EXDH3RNtM0ZDhv9befOy3KsB4NVmJh7IU9CwwNMCMBMrKA?e=EBc0hj), [Sergio](https://lut-my.sharepoint.com/:v:/g/personal/zhisong_liu_lut_fi/Ec1lb6aqmXRPjk_xRNTv1PoBeIogbHCjxi_PqaBWwAH4VA?e=2YpdLK), [Wojciech](https://lut-my.sharepoint.com/:v:/g/personal/zhisong_liu_lut_fi/EbX2NNGRqs5NpKxWlyU7OJEBX8M3tZ7GexCq0IDkZ3timg?e=Cl7UJE)|||
 |2023/11/22|||||
 |2023/11/29|||||
 |2023/12/6|||||
