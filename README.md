@@ -7,7 +7,7 @@ In this repository, you will find slidedecks and paper reproductions.
 Basically, papers are chosen at the start of each month, and meetings happen on Wednesday 15:00-17:00 every two weeks. Each time we have four presenters designated as the host for each topic. They are responsible for choosing the papers to discuss and leading the discussion during the session.
 
 # Location
-Mixed mode, Online or 
+Mixed mode, Online or on-site
 
 # Instruction
 * Choose one paper or several continuous papers (e.g., RCNN, Fast-RCNN and Faster-RCNN) for each session related to your topic that you think would be interesting to discuss in the reading group. In order to set a focus for the reading group we came up with the following short guidelines for how to choose papers:
