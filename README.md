@@ -33,4 +33,6 @@ Mixed mode, Online or on-site
 
 https://lut-my.sharepoint.com/:v:/g/personal/zhisong_liu_lut_fi/ET5PHbsO7TxLgOFLjkTD1FcBQVIqQgDjbMwduTI9Wd_vGg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5l3Nrb
 
+https://lut-my.sharepoint.com/:b:/g/personal/zhisong_liu_lut_fi/EfAsM8jrosVHkiC2jJ10cHgBwCyW3-zXzWosUl3dNNE08A?e=TlDpvn
+
 If you have suggestions for the next paper to read or any suggestions at all, please reach out to me on Teams!
