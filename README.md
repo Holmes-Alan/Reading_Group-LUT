@@ -33,6 +33,9 @@ Mixed mode, Online or on-site
 |Meeting date|Paper|Meeting|Slidedeck|Resources|
 |-|-|-|-|-|
 |2025/04/09|[TOTEM](https://arxiv.org/abs/2402.16412), [KD](https://www.sciencedirect.com/science/article/abs/pii/S0925231221016374)|[Sergio](https://lut-my.sharepoint.com/:v:/g/personal/zhisong_liu_lut_fi/ET5PHbsO7TxLgOFLjkTD1FcBQVIqQgDjbMwduTI9Wd_vGg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5l3Nrb)|[FM_KD](https://lut-my.sharepoint.com/:b:/g/personal/zhisong_liu_lut_fi/EfAsM8jrosVHkiC2jJ10cHgBwCyW3-zXzWosUl3dNNE08A?e=TlDpvn)|[Reinforced KD](https://github.com/xuqing88/Reinforced-Cross-Domain-Knowledge-Distillation-on-Time-Series-Data)|
+|2025/04/16|-|-|-|-|
+|2025/04/23|-|-|-|-|
+|2025/04/30|-|-|-|-|
 
 
 # Also check these out
