@@ -32,7 +32,7 @@ Mixed mode, Online or on-site
 # 2025 Schedule
 |Meeting date|Paper|Meeting|Slidedeck|Resources|
 |-|-|-|-|-|
-|2025/04/09|[TOTEM](https://arxiv.org/abs/2402.16412), [KD]([https://arxiv.org/abs/2203.12602](https://www.sciencedirect.com/science/article/abs/pii/S0925231221016374)), [GCCELM](https://www.sciencedirect.com/science/article/pii/S0957417422021820), [DreamGaussian](https://arxiv.org/abs/2309.16653)|[Sergio]([https://lut-my.sharepoint.com/:v:/g/personal/zhisong_liu_lut_fi/Eb8qr6BJYUBIisX6EZ_1mpYBsJCGI3rt9YtY7RKPB_kNjg?e=RSw5jD](https://lut-my.sharepoint.com/:v:/g/personal/zhisong_liu_lut_fi/ET5PHbsO7TxLgOFLjkTD1FcBQVIqQgDjbMwduTI9Wd_vGg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5l3Nrb))|[FM_KD]([https://lut-my.sharepoint.com/:b:/g/personal/zhisong_liu_lut_fi/Efk4MhNPlV1CkX59rNXfuI4BvHjsGCvf_GvR1yydY_ROcA?e=0RhQlJ](https://lut-my.sharepoint.com/:b:/g/personal/zhisong_liu_lut_fi/EfAsM8jrosVHkiC2jJ10cHgBwCyW3-zXzWosUl3dNNE08A?e=TlDpvn))||
+|2025/04/09|[TOTEM](https://arxiv.org/abs/2402.16412), [KD](https://www.sciencedirect.com/science/article/abs/pii/S0925231221016374)|[Sergio](https://lut-my.sharepoint.com/:v:/g/personal/zhisong_liu_lut_fi/ET5PHbsO7TxLgOFLjkTD1FcBQVIqQgDjbMwduTI9Wd_vGg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5l3Nrb)|[FM_KD](https://lut-my.sharepoint.com/:b:/g/personal/zhisong_liu_lut_fi/EfAsM8jrosVHkiC2jJ10cHgBwCyW3-zXzWosUl3dNNE08A?e=TlDpvn)||
 
 
 # Also check these out
